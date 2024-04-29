@@ -1,0 +1,14 @@
+{
+    "currentModel": "BNN",
+    "training": true,
+    "overFit": false,
+    "heldOutClasses": false,
+    "epochs": 20,
+    "patience": 10,
+    "saveModel": true,
+    "seed": 0,
+    "batchSize": 32,
+    "ensembleSize": 1,
+    "startEpochs": 1,
+    "dateRun": "2024-04-29"
+}
