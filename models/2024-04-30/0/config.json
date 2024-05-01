@@ -1,0 +1,14 @@
+{
+    "currentModel": "ENSEMBLE",
+    "training": true,
+    "overFit": false,
+    "heldOutClasses": false,
+    "epochs": 3,
+    "patience": 5,
+    "saveModel": true,
+    "seed": 0,
+    "batchSize": 32,
+    "ensembleSize": 3,
+    "startEpochs": 1,
+    "dateRun": "2024-04-30"
+}
