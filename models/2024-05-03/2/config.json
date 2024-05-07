@@ -2,14 +2,15 @@
     "currentModel": "BNN",
     "training": true,
     "overFit": false,
-    "heldOutClasses": false,
-    "epochs": 20,
+    "heldOutClasses": true,
+    "epochs": 30,
     "patience": 10,
     "saveModel": true,
     "seed": 0,
     "batchSize": 32,
+    "dropout_rate": 0.2,
+    "testing": false,
     "ensembleSize": 1,
     "startEpochs": 1,
-    "dateRun": "2024-04-29",
-    "dropout_rate": 0.5
+    "dateRun": "2024-05-03"
 }

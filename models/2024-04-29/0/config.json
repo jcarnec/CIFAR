@@ -10,5 +10,6 @@
     "ensembleSize": 1,
     "startEpochs": 1,
     "dateRun": "2024-04-29",
-    "batchSize": 1
+    "batchSize": 1,
+    "dropout_rate": 0.5
 }
