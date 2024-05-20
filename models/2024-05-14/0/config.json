@@ -1,0 +1,16 @@
+{
+    "currentModel": "pretrained",
+    "training": true,
+    "overFit": false,
+    "heldOutClasses": false,
+    "epochs": 30,
+    "patience": 10,
+    "saveModel": true,
+    "seed": 0,
+    "batchSize": 32,
+    "dropout_rate": 0.2,
+    "testing": false,
+    "ensembleSize": 1,
+    "startEpochs": 1,
+    "dateRun": "2024-05-14"
+}
